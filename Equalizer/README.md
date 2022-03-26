@@ -1,2 +1,2 @@
 # Equalizer
-A basic volume control effect plug-in with IGraphics GUI
+A frequncy control plug-in with IGraphics GUI
