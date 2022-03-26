@@ -1,2 +1,2 @@
 # NoiseGate
-A basic volume control effect plug-in with IGraphics GUI
+A Noise Gate plug-in with IGraphics GUI
