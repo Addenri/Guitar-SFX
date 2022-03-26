@@ -1,2 +1,2 @@
 # Delay
-A basic volume control effect plug-in with IGraphics GUI
+A basic delay effect plug-in with IGraphics GUI
