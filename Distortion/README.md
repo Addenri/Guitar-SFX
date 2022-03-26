@@ -1,2 +1,2 @@
 # Distortion
-A basic volume control effect plug-in with IGraphics GUI
+A distortion effect plug-in with IGraphics GUI
