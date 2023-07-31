@@ -1,2 +1,2 @@
 # SFX
-Sound FX plugins made with iPlug2
+Sound FX plugins for electric guitars made with iPlug2
